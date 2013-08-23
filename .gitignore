@@ -1,3 +1,7 @@
+*.swp
+*.swo
+*~
+
 lib-cov
 *.seed
 *.log

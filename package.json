@@ -1,0 +1,23 @@
+{
+  "name": "node-dyio",
+  "version": "0.0.1",
+  "description": "A node.js interface to Bowler (http://bowler.io) products, such as the DyIO",
+  "main": "repl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DirectXMan12/node-dyio.git"
+  },
+  "keywords": [
+    "serial",
+    "robotics",
+    "api"
+  ],
+  "author": "Solly Ross",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/DirectXMan12/node-dyio/issues"
+  }
+}
