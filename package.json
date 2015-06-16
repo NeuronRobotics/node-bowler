@@ -21,6 +21,6 @@
     "url": "https://github.com/DirectXMan12/node-dyio/issues"
   },
   "dependencies": {
-    "node-serialport": "1.1.x",
+    "node-serialport": "1.1.x"
   }
 }
